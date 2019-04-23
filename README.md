@@ -36,4 +36,4 @@ I'm Wong Tsz Chiu
 
 | Quiz | 1 |
 
-![](https://github.com/csci3250-2019/student-1155115791/blob/master/command.PNG)
+![](https://github.com/csci3250-2019/student-1155115791/blob/master/command.png)
